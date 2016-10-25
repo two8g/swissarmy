@@ -8,5 +8,8 @@
     <artifactId>swissarmy</artifactId>
     <version>1.0-SNAPSHOT</version>
 
+    <modules>
+        <module>CutyCapt4J</module>
+    </modules>
 
 </project>
